@@ -16,7 +16,7 @@ import com.google.android.material.navigation.NavigationView;
 import com.google.android.material.snackbar.Snackbar;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
-
+//putting a comment to check its status on git, using git flow
     private DrawerLayout drawer;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
